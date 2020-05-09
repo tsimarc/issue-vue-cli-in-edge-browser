@@ -1,6 +1,6 @@
 # description
 
-This project is created by Vue Cli3. Only next codes were added in `HelloWorld.vue` to help to locate source maps in the Devloper Tool of a browser
+This project is created by Vue Cli. Only next codes were added in `HelloWorld.vue` to help to locate source maps in the Devloper Tool of a browser
 
 ```js
 mounted() {
